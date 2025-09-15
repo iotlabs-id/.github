@@ -1,10 +1,13 @@
 # latest-updates
 
-**[August 2025]**  
-👋 Hii gangs, quick update!  
-We’re still in the lab cooking things up.  
-Launch isn’t here *yet*, but we’re aiming for the **end of Q3** this year.  
+-August 25'
+registered and build under Outhink Labs
+remake idea
 
-Hang tight — good stuff takes time 😉  
+-September 25'
+delay on web building
+
+-----
+setting up lil team soon
 
 gonna make it
