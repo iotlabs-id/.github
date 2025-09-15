@@ -1,10 +1,13 @@
 # latest-updates
 
 -August 25'
+
 registered and build under Outhink Labs
+
 remake idea
 
 -September 25'
+
 delay on web building
 
 -----
