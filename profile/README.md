@@ -1,16 +1,13 @@
 # latest-updates
 
--August 25'
 
-registered and build under Outhink Labs
+tl;dr: we are preparing to live by end this year
 
-remake idea
 
--September 25'
+We are proud to announce the upcoming launch of iotlabs.id a platform dedicated to empowering the next generation of innovators to explore, create, and collaborate in the Internet of Things (IoT) ecosystem.
 
-delay on web building
+Our mission is to provide a creative and collaborative environment where young minds can transform their ideas into impactful technological solutions.
 
------
-setting up lil team soon
+powered by _**Outhink Labs**_ 
 
 gonna make it
