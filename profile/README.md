@@ -4,9 +4,13 @@
 tl;dr: we are preparing to live by end this year
 
 
-We are proud to announce the upcoming launch of iotlabs.id a platform dedicated to empowering the next generation of innovators to explore, create, and collaborate in the Internet of Things (IoT) ecosystem.
+We’re proud to share that iotlabs.id is currently under development, a platform designed to empower the next generation of innovators to explore, create, and collaborate in the Internet of Things (IoT) ecosystem.
 
-Our mission is to provide a creative and collaborative environment where young minds can transform their ideas into impactful technological solutions.
+Although we have not made a public announcement yet, we are open for early contributors and researchers who wish to be part with us.
+
+If you’re passionate about IoT, technology, or research collaboration, we’d love to hear from you.
+Our email is open for inquiries and partnerships: almajidnaufal@gmail.com
+
 
 powered by _**Outhink Labs**_ 
 
