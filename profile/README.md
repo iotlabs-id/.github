@@ -1,7 +1,7 @@
 # latest-updates
 
 
-tl;dr: we are preparing to live by end this year
+tl;dr: we will launch on 22/2/2026
 
 
 We’re proud to share that iotlabs.id is currently under development, a platform designed to empower the next generation of innovators to explore, create, and collaborate in the Internet of Things (IoT) ecosystem.
